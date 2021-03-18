@@ -2,4 +2,4 @@
 kapcsolat próba
 ezt a vs-kódban írtam
 ez meg már github lol
-konfliktust akarok!
+heloszia
