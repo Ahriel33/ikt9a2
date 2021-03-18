@@ -3,3 +3,4 @@ kapcsolat próba
 ezt a vs-kódban írtam
 ez meg már github lol
 teszt
+mégeyg sor
